@@ -6,8 +6,8 @@ public class Samplegit {
 		int b= 05;
 		int c=a+b;
 		System.out.println(c);
-		int d=c*2;
-		System.out.println(d);
+		
+		
 		
 	}
 
